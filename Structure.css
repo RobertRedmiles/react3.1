@@ -1,0 +1,19 @@
+.structureContainer {
+    display: flex;
+    column-gap: 15px;
+
+}
+
+.artGallery img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.artGallery p {
+    text-align: center;
+}
+
+.gallery {
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.titleContainer {
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+}
+
+h1, p {
+    margin: 0;
+    margin-bottom: 10px;
+}
